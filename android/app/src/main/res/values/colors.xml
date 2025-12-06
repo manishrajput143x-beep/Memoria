@@ -1,1 +1,8 @@
-
+<<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="royal_blue">#1F6FEB</color>
+    <color name="deep_gold">#D4AF37</color>
+    <color name="pure_white">#FFFFFF</color>
+    <color name="soft_grey">#F5F7FA</color>
+    <color name="ultra_black">#0D1117</color>
+</resources>
